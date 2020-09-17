@@ -1,0 +1,96 @@
+*{
+	margin:0;
+	padding: 0;
+	
+}
+body{
+	background-color: #F7F8F9;
+}
+.page900{
+	width: 1160px;
+	margin:0 auto;
+	overflow: hidden;
+	background-color: #DB7093;
+}
+/*#wrap{
+	width:1160px;
+	margin:0 ；
+}*/
+
+#header{
+	background-color:#fff;
+}
+#logo{
+	width: 318px;
+	height: 90px;
+	/* background-color:pink ; */
+	float: left;
+	
+	
+}
+#logo img{
+	padding: 25px 0 20px 0px;
+}
+	
+
+#nav{
+	width: 500px;
+	background-color: firebrick;
+	float: left;
+	overflow: hidden;
+}
+#nav li{
+	width: 100px;
+	float: left;
+}
+#search{
+	width: 150px;
+	background-color: palevioletred;
+	float: left;
+}
+#banner{
+	height: 300px;
+	width: auto;
+	background-color: #F7F8F9;
+	background-image: url(images/组%20119.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+/*main*/
+#main{
+	background-color:#fff;
+}
+.section1{
+	background-color: #F0F8FF;
+	overflow: hidden;
+}
+
+.Left{
+	background-color: aliceblue;
+	width: 650px;
+	float: left;
+}
+.right{
+	background-color: 555555;
+	width: 250px;
+	float: right;
+}
+.wangdian li{
+	background-color: #DB7093;
+	margin: 0 0 10px 0;
+	width:300px;
+	float: left;
+	overflow: hidden;
+}
+.wd-pic1{
+	width:130px;
+	float:left;
+}
+.wd-txt{
+	width: 170px;
+	float: right;
+}
+/* footer*/
+#fooder{
+	background-color:#333;
+}
